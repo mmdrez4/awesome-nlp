@@ -1,6 +1,6 @@
 # Awesome NLP Projects for Persian and English
 
-Welcome to the "awesome_nlp" repository! This repository contains a collection of Natural Language Processing (NLP) and Information Retrieval projects designed for addressing problems in both Persian and English languages. Below, you'll find a brief overview of each project included in this repository, along with links to their respective repositories.
+Welcome to the "awesome-nlp" repository! This repository contains a collection of Natural Language Processing (NLP) and Information Retrieval projects designed for addressing problems in both Persian and English languages. Below, you'll find a brief overview of each project included in this repository, along with links to their respective repositories.
 
 ## Projects
 
