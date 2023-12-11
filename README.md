@@ -31,5 +31,8 @@ The "NLP_Finding_Recipe" project analyzes recipes for various foods from Wikiped
 ## Usage
 Each project in this repository is self-contained with its own documentation and code. You can explore individual project directories for more details on usage and implementation.
 
+## Contributing
+Feel free to fork this repository and contribute by submitting pull requests. Any feedback, bug reports, or suggestions for improvement are highly welcome.
+
 ## License
 This repository is open-source, and each project may have its own license. Please check the license files within individual project directories for specific licensing information.
